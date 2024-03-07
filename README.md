@@ -48,6 +48,7 @@ The system includes reporting features powered by Report Builder, allowing users
 - Regularly back up the database to prevent data loss.
 
 ## Contributors
+- [Ahmed Allam]
 - [shadi1711]
 - [IslamMosaad]
 - [FatmaSaeed29]
