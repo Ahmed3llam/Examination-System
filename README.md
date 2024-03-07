@@ -33,7 +33,7 @@ To set up and run the Examination System, follow these general steps:
    - Execute the SQL scripts provided to create the database schema, tables, and stored procedures.
 
 2. **Desktop Application Setup**:
-   - Install the necessary dependencies, including .NET Framework.
+   - Install the necessary dependencies, including .NET Core.
    - Build and run the desktop application using your preferred development environment.
 
 3. **Usage**:
@@ -41,8 +41,8 @@ To set up and run the Examination System, follow these general steps:
    - Perform various operations, such as creating exams, managing courses, and viewing student grades.
 
 ## Reporting
-The system includes reporting features powered by Report Builder, allowing users to generate custom reports based on exam results, student performance, and other relevant metrics.
-
+- The system includes reporting features powered by Report Builder, allowing users to generate custom reports based on exam results, student performance, and other relevant metrics.
+- RDLC for Report Viewer
 ## Additional Notes
 - Ensure that proper security measures are implemented to protect sensitive data.
 - Regularly back up the database to prevent data loss.
